@@ -1,7 +1,3 @@
-
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:f72585,100:7209b7&height=200&section=header&text=Hi,+I'm+Sina!&fontSize=40&fontColor=fff)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=06D6A0&lines=Full-stack+Developer;Cybersecurity+Learner;Always+Building+Cool+Stuff)](https://git.io/typing-svg)
@@ -73,6 +69,9 @@ A modern reimagining of the classic **River Raid** game, built with Unity.
 ### 🚲 Papaya Go (Bike Share App)
 *(Coming soon — repo will be added here)*  
 A mobile-first bike sharing platform designed for seamless rentals, mapping, and payments.
+
+## 🌍 Website
+Check out my personal website & portfolio here: [sinahajeb.com](https://sinahajeb.com)
 
 
 ## 📊 GitHub Stats
