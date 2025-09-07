@@ -70,10 +70,6 @@ A modern reimagining of the classic **River Raid** game, built with Unity.
 *(Coming soon — repo will be added here)*  
 A mobile-first bike sharing platform designed for seamless rentals, mapping, and payments.
 
-## 🌍 Website
-Check out my personal website & portfolio here: [sinahajeb.com](https://sinahajeb.com)
-
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sinkid8&layout=compact&theme=radical"/>
